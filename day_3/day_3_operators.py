@@ -32,3 +32,7 @@ print(len('python'))
 print(len('dragon'))
 print("python"=="dragon")
 
+#I hope this course is not full of jargon. Use in operator to check if jargon is in the sentence.
+sentence = "I hope this course is not full of jargon."
+is_jargon_in = "jargon" in sentence
+print(is_jargon_in)
