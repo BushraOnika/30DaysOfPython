@@ -1,6 +1,6 @@
 import statistics
 
-from day_5.execise_level_1 import middle_index
+from day_5.list_execise_level_1 import middle_index
 
 ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 #Sort the list and find the min and max age
